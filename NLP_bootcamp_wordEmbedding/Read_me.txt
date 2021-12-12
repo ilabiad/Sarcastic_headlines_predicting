@@ -1,0 +1,1 @@
+the folder .\NLP_bootcamp_wordEmbedding\model contains weights saves from different runs
